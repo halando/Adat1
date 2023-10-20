@@ -1,0 +1,9 @@
+C:\Users\Tanar\source\repos\Adatbazis1\Adatbazis1\bin\Debug\Database1.mdf
+C:\Users\Tanar\source\repos\Adatbazis1\Adatbazis1\bin\Debug\Database1_log.ldf
+C:\Users\Tanar\source\repos\Adatbazis1\Adatbazis1\bin\Debug\Adatbazis1.exe.config
+C:\Users\Tanar\source\repos\Adatbazis1\Adatbazis1\bin\Debug\Adatbazis1.exe
+C:\Users\Tanar\source\repos\Adatbazis1\Adatbazis1\bin\Debug\Adatbazis1.pdb
+C:\Users\Tanar\source\repos\Adatbazis1\Adatbazis1\obj\Debug\Adatbazis1.csproj.AssemblyReference.cache
+C:\Users\Tanar\source\repos\Adatbazis1\Adatbazis1\obj\Debug\Adatbazis1.csproj.CoreCompileInputs.cache
+C:\Users\Tanar\source\repos\Adatbazis1\Adatbazis1\obj\Debug\Adatbazis1.exe
+C:\Users\Tanar\source\repos\Adatbazis1\Adatbazis1\obj\Debug\Adatbazis1.pdb
